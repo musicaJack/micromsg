@@ -1,0 +1,35 @@
+/* index/HelloWorld.wxss */
+.container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.avatar{
+  width: 600rpx;
+  height:600rpx;
+  margin-top: 160rpx;
+}
+
+.motto{
+  margin-top: 100rpx;
+  font-size: 32rpx;
+  font-weight: bold;
+  color:rgb(17, 38, 159);
+}
+
+.journey-container{
+  margin-top: 200rpx;
+  border:1px solid#EA5A3C;
+  width:265rpx;
+  height:60rpx;
+  border-radius: 0px;
+  text-align: center;
+}
+
+.journey{
+  font-size: 37rpx;
+  font-weight: bold;
+  color: #EA5A3C;
+  
+}

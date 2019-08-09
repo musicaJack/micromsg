@@ -1,0 +1,8 @@
+<!--index/HelloWorld.wxml-->
+<view class="container">
+  <image class="avatar" src="/images/Desert.jpg"></image>
+  <text class="motto">Hello,World!</text>
+  <view class="journey-container">
+    <text class="journey">开启小程序之旅</text>
+  </view>
+</view>
